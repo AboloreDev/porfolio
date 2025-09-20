@@ -47,7 +47,7 @@ const Projects = () => {
     <motion.section
       initial="hidden"
       whileInView="visible"
-      viewport={{ once: true, amount: 0.5 }}
+      viewport={{ once: true }}
       variants={AnimationContainerVariants}
       className="w-full py-16 px-6"
       id="project"

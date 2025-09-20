@@ -33,7 +33,7 @@ const Experience = () => {
     <motion.section
       initial="hidden"
       whileInView="visible"
-      viewport={{ once: true, amount: 0.3 }}
+      viewport={{ once: true }}
       variants={AnimationContainerVariants}
       className="w-full py-16 px-6"
       id="experience"
