@@ -99,7 +99,7 @@ const Hero = () => {
                 <div className="flex gap-4 justify-center lg:justify-start">
                   {/* GitHub */}
                   <Link
-                    href="https://github.com/yourusername"
+                    href="https://github.com/aboloredev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative"
@@ -111,7 +111,7 @@ const Hero = () => {
 
                   {/* LinkedIn */}
                   <Link
-                    href="https://linkedin.com/in/yourusername"
+                    href="https://linkedin.com/in/fathiu-alabi"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative"
@@ -123,7 +123,7 @@ const Hero = () => {
 
                   {/* Twitter */}
                   <Link
-                    href="https://twitter.com/yourusername"
+                    href="https://twitter.com/abolorreeeee"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group relative"
